@@ -6,9 +6,16 @@ body{
 nav{
     background-color:antiquewhite;
     width: 100%;
-    height: 40px;
+    height: 400px;
+    padding-left: 50px;
+    padding-top: 1px ;
+    
 }
+/* Si quiero formar algo debo darle una altura y anchura porque si no no se ve las cosas. Para que se muestre algo debemos darle una altura y anchura.  */
 .icono-facebook{
-    background-color: aqua;
+    background-color: rgb(1, 170, 221);
     width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 100px;
 }
